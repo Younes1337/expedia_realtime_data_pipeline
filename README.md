@@ -54,7 +54,7 @@ python main.py
 
 Below is the architecture graph of the data pipeline:
 
-![Architecture Graph](path/to/your/architecture-graph.png)
+![Architecture Graph]('Data Pipeline.png')
 
 ### Components
 
