@@ -1,6 +1,6 @@
 # Data Pipeline Project
 
-This project sets up a comprehensive data pipeline using various technologies including Kafka, FlinkSQL, Snowflake, Databricks, and AWS S3. The pipeline processes real-time data from the OpenSky Network and stores it in Snowflake and Delta Lake.
+This project sets up a comprehensive data pipeline using various technologies, including Kafka, FlinkSQL, Snowflake, Databricks, and AWS S3. The pipeline processes real-time data from the OpenSky Network and stores it in Snowflake and Delta Lake.
 
 ## Table of Contents
 - [OpenSky API GitHub Cloning and Setting](#opensky-api-github-cloning-and-setting)
@@ -54,7 +54,7 @@ python main.py
 
 Below is the architecture graph of the data pipeline:
 
-![Architecture Graph]('Data Pipeline.png')
+![Architecture Graph](`Data Pipeline.png`)
 
 ### Components
 
