@@ -15,7 +15,7 @@ To get started with the OpenSky API, you need to clone the repository and set it
 Open a terminal and run the following command to clone the OpenSky API repository:
 
 ```sh
-git clone https://github.com/your-username/opensky-api.git
+git clone https://github.com/openskynetwork/opensky-api
 ```
 
 ### Step 2: Navigate to the Repository
@@ -31,7 +31,7 @@ cd opensky-api
 Install the required dependencies using pip:
 
 ```sh
-pip install -r requirements.txt
+sudo python setup.py install
 ```
 
 ### Step 4: Set Up Environment Variables
