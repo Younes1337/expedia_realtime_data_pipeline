@@ -53,7 +53,7 @@ def produce(topic, config, data):
 
 def main():
     config = read_config()
-    topic = "dlq-lcc-jgkjqq"  # Fixed typo in topic name
+    topic = "topic-name"  # Fixed typo in topic name
     data = flights_data()
     produce(topic, config, data)
 
